@@ -1,0 +1,5 @@
+# ignore *.o files
+*.o
+
+# ignore slstatus binary
+slstatus
